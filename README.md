@@ -76,3 +76,6 @@ I will continue to implement standalone asynchronous methods for common waitable
 The **goal** is to have a location where you can get the smallest amount of open source code to perform asynchronous tasks in PHP. A framework like AmpPHP will always be superior if you would like to center your codebase around it, but my goal is to give you the option to leave a smaller footprint or simply made an addition to your existing codebase.
 
 Want to spin up a quick Apache or nginx server on your Linux machine or via XAMPP for windows and grab a couple files for asynchronous MySQLi? That's what I want to give you the choice to do.
+
+## Todo: Implement JS-like style
+https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
